@@ -6,7 +6,7 @@
       "type": "blobTrigger",
       "direction": "in",
       "path": "qwerty/{name}",
-      "connection": "hotchips_STORAGE"
+      "connection": "AzureWebJobsStorage"
     }
   ]
 }
